@@ -1,0 +1,7 @@
+Producto | Cantidad | Precio Unitario | Valor Total | Ubicaci�n
+---------------------------------------------------------------
+Manzanas | 100      | 2.50            | 250.00      | BodegaA   
+Peras    | 0        | 3.00            | 0.00        | BodegaB   
+Platanos | 100      | 1.75            | 175.00      | BodegaC   
+Uvas     | 70       | 1.25            | 87.50       | BodegaC   
+Manzanas | 80       | 2.50            | 200.00      | BodegaB   
